@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+# Restaurant Landing Page
+ 
+This is the landing page for a restaurant which I created during my Software Engineer Internship at **Stige** as my *Mini Project 1*.
 
-You can use the [editor on GitHub](https://github.com/LOKESWARAN-ARULJOTHI/Restaurant-Landing-Page/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+This page is build only by on HTML and CSS.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Visit [https://lokeswaran-aruljothi.github.io/Restaurant-Landing-Page/](https://lokeswaran-aruljothi.github.io/Restaurant-Landing-Page/)
 
-### Markdown
+![footspot1](https://user-images.githubusercontent.com/74011196/125562124-7e0599fa-7876-4332-9290-64757d4d4b48.png)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![footspot2](https://user-images.githubusercontent.com/74011196/125562170-bf14a275-3b54-48e4-96f5-2e9d73e12a99.png)
 
-```markdown
-Syntax highlighted code block
+![footspot3](https://user-images.githubusercontent.com/74011196/125562191-20d344ff-8c6d-4dd7-8ba2-23d225631443.png)
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LOKESWARAN-ARULJOTHI/Restaurant-Landing-Page/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
